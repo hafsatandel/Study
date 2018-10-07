@@ -1,1 +1,2 @@
 This is Hafsa's new Git repository
+I want to study Git
