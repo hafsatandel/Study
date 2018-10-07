@@ -1,2 +1,2 @@
 This is Hafsa's new Git repository for testing
-I want to study Git
+I want to study GitHub
